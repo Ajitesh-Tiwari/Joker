@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Joker</string>
+    <string name="instructions">Prepare a delicious joke !</string>
+    <string name="button_text">Tell Joke</string>
+    <string name="action_settings">Settings</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9965569181065625/4373724791</string>
+</resources>
