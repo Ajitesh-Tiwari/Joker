@@ -2,305 +2,130 @@
 <items version="2" >
 
     <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-drive-8.4.0_1f4e55f6f1e0b8fbd797970e1f265c2d25be7b99/classes.dex" />
-    </item>
-    <item
         jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/internal_impl-23.4.0_dfe61ffbc9b173993fb8f0990f4928cc7e4b0a4c/classes.dex" />
-    </item>
-    <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-fitness-8.4.0_50f8df81300eb7db17b0348967aa92ba89b25d12/classes.dex" />
+        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/internal_impl-23.4.0_dfe61ffbc9b173993fb8f0990f4928cc7e4b0a4c/classes.dex" />
     </item>
     <item
         jar="/home/ajitesh/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/jsr305-1.3.9_d41eace2bc346d67bd8d95be7f74214bb001af49/classes.dex" />
+        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/jsr305-1.3.9_d41eace2bc346d67bd8d95be7f74214bb001af49/classes.dex" />
     </item>
     <item
         jar="/home/ajitesh/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.20.0/d3e66209ae9e749b2d6833761e7885f60f285564/google-api-client-1.20.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/google-api-client-1.20.0_a72aa27d8bb7daba3865a5a1cc90e5954257be3f/classes.dex" />
+        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/google-api-client-1.20.0_a72aa27d8bb7daba3865a5a1cc90e5954257be3f/classes.dex" />
     </item>
     <item
         jar="/home/ajitesh/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.20.0/93d82db2bca534960253f43424b2ba9d7638b4d2/google-http-client-1.20.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/google-http-client-1.20.0_afda757c7d278a3a6503648e60f8daf6747ab165/classes.dex" />
+        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/google-http-client-1.20.0_afda757c7d278a3a6503648e60f8daf6747ab165/classes.dex" />
     </item>
     <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/incremental-classes/paid/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-measurement-8.4.0_c7cd0f740c95428ff3ef71f16b985676abfdfd15/classes.dex" />
-    </item>
-    <item
-        jar="/home/ajitesh/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/13.0/381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7/guava-jdk5-13.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/guava-jdk5-13.0_961ee8aebbff1d9029ce329a97b7a48b8492d0ee/classes.dex" />
-    </item>
-    <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.android.support-support-v4-23.4.0_7373458b5ed5952246d83e99b29bd61e403b3813/classes.dex" />
-    </item>
-    <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-wearable-8.4.0_727e4ef16cebf3eb34dae83a14e34271faf30c61/classes.dex" />
-    </item>
-    <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_7ea57d3626e36ffee13361230722faff0e9fc04f/classes.dex" />
-    </item>
-    <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/incremental-classes/free/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="02edaeb9f3b2221708472e64015763e6daf3ed4a">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/instant-run-bootstrap_d4c0f4840906435ea0997418a422ea47ea6a1731/classes.dex" />
-    </item>
-    <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-wallet-8.4.0_777648fb4ec24923f284375a698c809111cf7298/classes.dex" />
-    </item>
-    <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.android.support-multidex-1.0.1_8e27b3cd7402aac1d36b685d95b1b3f50ec709f3/classes.dex" />
-    </item>
-    <item
-        jar="/home/ajitesh/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.20.0/1d086ac5756475ddf451af2e2df6e288d18608ca/google-oauth-client-1.20.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/google-oauth-client-1.20.0_9a61e487f3a02b098727efc741e229e1f834e999/classes.dex" />
-    </item>
-    <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-identity-8.4.0_32325c41a889462e9c208ae5ea897e3c609dfb13/classes.dex" />
-    </item>
-    <item
-        jar="/home/ajitesh/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/jackson-core-2.1.3_0503ec7b727cebf124ae419bb12f18389c8c8da8/classes.dex" />
-    </item>
-    <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-8.4.0_524271a4e6dded499198662a5ea6fcdb3264f5e8/classes.dex" />
-    </item>
-    <item
-        jar="/home/ajitesh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/support-annotations-23.4.0_364a37f9d42874401be0ea9f4322f1e51e13bffe/classes.dex" />
-    </item>
-    <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-panorama-8.4.0_ffe76bb40e346b7d1999f6eb9ee5e15c50b2a833/classes.dex" />
-    </item>
-    <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-vision-8.4.0_4a8f2ffd5e157fc793d79b831835c74e5da8d3c6/classes.dex" />
-    </item>
-    <item
-        jar="/home/ajitesh/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.20.0/5673179575c32b69a474334255c3044adf18d40/google-api-client-android-1.20.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="05673179575c32b69a474334255c3044adf18d40">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/google-api-client-android-1.20.0_6df2b169dc9a2c84fd3695ce52883593ec8fb3ee/classes.dex" />
-    </item>
-    <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_576fd61368aa27d5ef8e4e66733d652d8dc3118b/classes.dex" />
-    </item>
-    <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_39e62fd45f1faba5d950ff4c27ed73df62f56982/classes.dex" />
-    </item>
-    <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-nearby-8.4.0_7abb9604afe44183cfb9afa5b5fce93967ad2ac0/classes.dex" />
-    </item>
-    <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-plus-8.4.0_e24b336eb43840c299352e942878a259254913b1/classes.dex" />
-    </item>
-    <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/internal_impl-23.0.0_15f6eea076b3a4e11d827f6e0f30851ff45d1c33/classes.dex" />
+        sha1="f8d968ed4a4a2fbe9014a99a797475f58e79dd4c">
+        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/instant-run-bootstrap_3d9bfe87d4853e70cc2f51adf0fd02d42a7e64d1/classes.dex" />
     </item>
     <item
         jar="/home/ajitesh/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.20.0/2408070b2abec043624d35b35e30450f1b663858/google-http-client-jackson2-1.20.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="2408070b2abec043624d35b35e30450f1b663858">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/google-http-client-jackson2-1.20.0_0528f0ff3c8e8253b97631b4966a20e92b3fc22f/classes.dex" />
+        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/google-http-client-jackson2-1.20.0_0528f0ff3c8e8253b97631b4966a20e92b3fc22f/classes.dex" />
     </item>
     <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
+        jar="/home/ajitesh/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/13.0/381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7/guava-jdk5-13.0.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-games-8.4.0_ca52f11b7b5cf9ce203533c96ad60d29b27f3a42/classes.dex" />
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/guava-jdk5-13.0_961ee8aebbff1d9029ce329a97b7a48b8492d0ee/classes.dex" />
     </item>
     <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_8254a905c3a49c2bd1111771f740cc83c9c8af50/classes.dex" />
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/com.android.support-support-v4-23.4.0_7373458b5ed5952246d83e99b29bd61e403b3813/classes.dex" />
     </item>
     <item
         jar="/home/ajitesh/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.20.0/313dc99a7963523871495897ca11aa8472b3c6fd/google-http-client-android-1.20.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/google-http-client-android-1.20.0_2a1429cc8489e1378e466fd9a671b770c5ad53b8/classes.dex" />
+        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/google-http-client-android-1.20.0_2a1429cc8489e1378e466fd9a671b770c5ad53b8/classes.dex" />
     </item>
     <item
         jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_781d5ddfcfcf939922b57cb0a44f38ce9000af4a/classes.dex" />
-    </item>
-    <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-analytics-8.4.0_98eba83561cd95f29ef33f4a4247abd7cea2b7e3/classes.dex" />
+        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_781d5ddfcfcf939922b57cb0a44f38ce9000af4a/classes.dex" />
     </item>
     <item
         jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_2525102ce214e628912e8c5cec09d2eb33e27fcd/classes.dex" />
+        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_2525102ce214e628912e8c5cec09d2eb33e27fcd/classes.dex" />
     </item>
     <item
         jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_484d2933c595c98d1281667e18e179c668bf3c7e/classes.dex" />
+        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_484d2933c595c98d1281667e18e179c668bf3c7e/classes.dex" />
     </item>
     <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/incremental-runtime-classes/free/debug/instant-run.jar"
+        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="99cf3fafc7d6f23192cb1639cc4666c134f56e29">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/instant-run_5f973b33dd642146f7d07b5fb88bdee5a8ee3bb8/classes.dex" />
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/com.android.support-multidex-1.0.1_8e27b3cd7402aac1d36b685d95b1b3f50ec709f3/classes.dex" />
     </item>
     <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jar="/home/ajitesh/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.20.0/1d086ac5756475ddf451af2e2df6e288d18608ca/google-oauth-client-1.20.0.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-auth-8.4.0_6b5a0d81ea67458e49ebc725297bccb17328bfb2/classes.dex" />
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/google-oauth-client-1.20.0_9a61e487f3a02b098727efc741e229e1f834e999/classes.dex" />
     </item>
     <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jar="/home/ajitesh/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-ads-8.4.0_e96c2ac0aceeed2028f5cce2cede3ce527105b6e/classes.dex" />
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/jackson-core-2.1.3_0503ec7b727cebf124ae419bb12f18389c8c8da8/classes.dex" />
     </item>
     <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/incremental-runtime-classes/paid/debug/instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-8.4.0_2e3be7946529c4f4130ad9c81df8562d885bc1e5/classes.dex" />
+        sha1="a7f76f40fff62e5d8dd92f49600c9b6bf7b4abcc">
+        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/instant-run_717df4c26d3a9f954ce36a0c1aada165ad4917d3/classes.dex" />
     </item>
     <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jar="/home/ajitesh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-location-8.4.0_4a98941dee2f36ac94b0068a900791755be5eade/classes.dex" />
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/support-annotations-23.4.0_364a37f9d42874401be0ea9f4322f1e51e13bffe/classes.dex" />
     </item>
     <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jar="/home/ajitesh/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.20.0/5673179575c32b69a474334255c3044adf18d40/google-api-client-android-1.20.0.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-cast-8.4.0_93ee807175534c20197b5d097f7f36601c32dee4/classes.dex" />
-    </item>
-    <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-gcm-8.4.0_2918e3f415576dcc20f0b4ec01fa76532fa595f3/classes.dex" />
-    </item>
-    <item
-        jar="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="04de44f90606c77f3b28cf44861f306290505aac">
-        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/com.google.android.gms-play-services-maps-8.4.0_2a371c2a8b5afef474eb42955f178758bcf6415b/classes.dex" />
+        sha1="05673179575c32b69a474334255c3044adf18d40">
+        <dex dex="/home/ajitesh/Documents/Github/ud867/FinalProject/app/build/intermediates/transforms/dex/paid/debug/folders/1000/10/google-api-client-android-1.20.0_6df2b169dc9a2c84fd3695ce52883593ec8fb3ee/classes.dex" />
     </item>
 
 </items>
